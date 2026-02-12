@@ -1,6 +1,6 @@
 #### Howdy!
 
-I'm Henri, a Computer Engineering student with an academic background in **C** and Data Structures.  
+I'm Henri, a Computer Engineering student with academic background in **C** and Data Structures.  
 Currently expanding my knowledge in **Python** 🐍 and focusing on **Java** ☕.
 
 ### Core Foundation
@@ -16,9 +16,10 @@ Currently expanding my knowledge in **Python** 🐍 and focusing on **Java** ☕
 
 ### A Little About Me
 
+- Love games, art, and design — especially when they blend creativity with structure  
 - Enjoy K-pop, bossa nova, rock, and classical music  
 - Piano enthusiast  
 - Studying English and Korean  
-- Into sports, especially football
+- Into sports, especially football  
 
-*Curiosity drives me — I like studying different things beyond engineering in my free time.*
+*Curiosity drives me — always exploring beyond engineering.*
