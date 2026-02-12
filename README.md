@@ -1,16 +1,22 @@
-## Hi there 👋
+Howdy! I'm Henri, a Computer Engineering student with an academic background in **C** and Data Structures.  
+Currently expanding my knowledge in **Python** 🐍 and focusing on **Java** ☕.
 
-<!--
-**intkasako/intkasako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Core Foundation
+- ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+- ![Data Structures](https://img.shields.io/badge/Data%20Structures-1F6FEB?style=flat&logo=code&logoColor=white)
 
-Here are some ideas to get you started:
+## Currently Exploring
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## A Little About Me
+
+- Enjoy K-pop, bossa nova, rock, and classical music  
+- Piano enthusiast  
+- Studying English and Korean  
+- Into sports, especially football
+
+*Curiosity drives me — I like studying different things beyond engineering in my free time.*
