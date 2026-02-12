@@ -1,4 +1,6 @@
-Howdy! I'm Henri, a Computer Engineering student with an academic background in **C** and Data Structures.  
+#### Howdy!
+
+I'm Henri, a Computer Engineering student with an academic background in **C** and Data Structures.  
 Currently expanding my knowledge in **Python** 🐍 and focusing on **Java** ☕.
 
 ### Core Foundation
