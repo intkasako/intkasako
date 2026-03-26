@@ -4,7 +4,6 @@ I'm Henri, a Computer Engineering student, building real-world
 web applications and exploring the intersection of AI and software development.
 
 ### Core Foundation
-![Data Structures](https://img.shields.io/badge/Data%20Structures-1F6FEB?style=flat&logo=code&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
