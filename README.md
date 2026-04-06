@@ -1,25 +1,19 @@
 #### Howdy!
 
-I'm Henri, a Computer Engineering student, building real-world 
-web applications and exploring the intersection of AI and software development.
+I'm Henri, a Computer Engineering student.
+Building toward a career in tech — with an eye on East Asia.
 
-### Core Foundation
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+## 🛠️ Core Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-### Currently Exploring
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 ## 🎯 Interests
-Software Development · Artificial Intelligence · Cloud
+Machine Learning · Artificial Intelligence · Cloud · Software Development 
 
 ## ✨ Beyond Code
-Piano · Football · Anime · K-pop & Bossa Nova · Games & Design
+Taekwondo · Piano · Football · Anime · K-pop & Bossa Nova · Games & Design
 
 *Curiosity drives me — always exploring beyond engineering.*
