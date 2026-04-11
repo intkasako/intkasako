@@ -1,7 +1,7 @@
 #### Howdy!
 
 I'm Henri, a Computer Engineering student.
-Currently focused on Machine Learning and Deep Learning — with an eye on East Asia
+Currently focused on Machine Learning and Deep Learning. with an eye on East Asia
 
 ## Core Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
