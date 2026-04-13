@@ -17,4 +17,4 @@ Machine Learning · Artificial Intelligence · Cloud · Software Development
 ## Beyond Code
 Taekwondo · Piano · Football · Anime · K-pop · Bossa · Nova · Games · Design
 
-*Curiosity drives me - always exploring beyond engineering.*
+Curiosity drives me
