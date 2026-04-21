@@ -15,6 +15,6 @@ Currently focused on Machine Learning and Deep Learning. with an eye on East Asi
 Machine Learning · Artificial Intelligence · Cloud · Software Development 
 
 ## Beyond Code
-Taekwondo · Piano · Football · Anime · K-pop · Bossa · Nova · Games · Design
+Taekwondo · Piano · Football · Anime · K-pop · Bossa Nova · Games · Design
 
 Curiosity drives me
