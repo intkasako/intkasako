@@ -2,7 +2,8 @@
 
 I'm **Henri**, a Computer Engineering student focused on **Machine Learning**, **Deep Learning**, **IA** and **Software Engineering**.\
 Sometimes I do things for fun.\
-Learning.
+Learning...
+
 ---
 
 ## Tech Stack & Tools
