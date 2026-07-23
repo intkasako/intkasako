@@ -1,6 +1,7 @@
 #### Howdy! 👋
 
 I'm **Henri**, a Computer Engineering student focused on **Machine Learning**, **Deep Learning**, **IA** and **Software Engineering**.
+Sometimes I do things for fun.
 
 ---
 
@@ -23,7 +24,7 @@ I'm **Henri**, a Computer Engineering student focused on **Machine Learning**, *
 ---
 
 ## Beyond Code
-**Languages:** Currently learning Japanese 🇯🇵 and refining my English proficiency.
+**Languages:** Currently learning Japanese 🇯🇵 and refining my English.
 
 ---
 
