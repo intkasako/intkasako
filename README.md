@@ -30,3 +30,4 @@ Learning...
 ---
 
 📫 **How to reach me:** 
+henri.salarolli@gmail.com
